@@ -1,2 +1,3 @@
 # test
-Ez egy teszt valami
+Ez egy vagányságos teszt valami
+amiben modosítésokat végeztünk
